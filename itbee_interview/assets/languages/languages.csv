@@ -1,0 +1,22 @@
+str,vi,en
+hello,Xin chào,Hello
+what_is_your_name,Tên bạn là gì?,What is your name?
+your_work_today,Công việc hôm nay của bạn,Your work today
+view_tasks,Xem việc,View tasks
+tasks_in_progress,Việc đang làm,Tasks in progress
+task_list,Danh sách các công việc,Task list
+settings,Cài đặt,Settings
+dark_mode,Chế độ tối,Dark mode
+notifications,Thông báo,Notifications
+all,Tất cả,All
+task_name,Tên công việc,Task name
+description,Mô tả,Description
+start_date,Ngày bắt đầu,Start date
+due_date,Ngày kết thúc,Due date
+create_new,Tạo mới,Create new
+delete,Xóa,Delete
+update,Cập nhật,Update
+confirm_delete_task,Bạn muốn xóa công việc này?,Do you want to delete this task?
+confirm_update_task,Bạn muốn cập nhật dữ liệu mới cho công việc này?,Do you want to update this task with new data?
+confirm,Đồng ý,Confirm
+back,Trở lại,Back

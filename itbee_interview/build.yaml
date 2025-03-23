@@ -1,0 +1,48 @@
+targets:
+  $default:
+    builders:
+      flutter_gen_runner: 
+        options: 
+          output: lib/configuration/gen/ 
+          line_length: 120 
+
+          assets:
+            enabled: true
+            outputs:
+              class_name: MyAssets
+          # fonts:
+          #   enabled: true
+          #   outputs:
+          #     class_name: MyFontFamily
+  # $default:     
+  #   builders:
+  #     flutter_gen_runner: 
+  #       options: 
+  #         output: lib/configuration/gen_light/ 
+  #         line_length: 120 
+  #         assets:
+  #           enabled: false
+  #         fonts:
+  #           enabled: false
+  #         colors:
+  #           enabled: true
+  #           outputs:
+  #             class_name: MyColorLight
+  #           inputs:
+  #             - assets/color/color_light.xml
+  # $default:       
+  #   builders:
+  #     flutter_gen_runner: 
+  #       options: 
+  #         output: lib/configuration/gen_dark/ 
+  #         line_length: 120 
+  #         assets:
+  #           enabled: false
+  #         fonts:
+  #           enabled: false
+  #         colors:
+  #           enabled: true
+  #           outputs:
+  #             class_name: MyColorDark
+  #           inputs:
+  #             - assets/color/color_dark.xml

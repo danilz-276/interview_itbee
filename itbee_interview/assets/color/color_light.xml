@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#7B61FF</color>
+    <color name="backgroundColor">#F7F7F7</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="progressPurple">#7B61FF</color>
+    <color name="progressBlue">#56A5FF</color>
+    <color name="progressOrange">#FF8C42</color>
+    <color name="progressPink">#FF5E8B</color>
+    <color name="progressGray">#D0D0D0</color>
+    <color name="iconColor">#7B61FF</color>
+    <color name="textPrimary">#2E2E2E</color>
+    <color name="textSecondary">#B6B9BE</color>
+    <color name="taskCardBorder">#EAEAEA</color>
+</resources>
