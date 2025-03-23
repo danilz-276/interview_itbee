@@ -1,4 +1,4 @@
-# **ITBEE INTERVIEW - ĐINH NGUYỄN TẤN ĐẠT**  
+# **ITBEE INTERVIEW - TASK MANAGER APP - ĐINH NGUYỄN TẤN ĐẠT**  
 
 ## **Giới thiệu**  
 Ứng dụng được xây dựng bằng Flutter 3.29.2, hỗ trợ Android và iOS.  
